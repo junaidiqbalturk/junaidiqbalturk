@@ -76,4 +76,4 @@ I'm a passionate **Data Scientist**, **Generative AI Enthusiast**, **Python Deve
 
 ---
 
-![Footer Image](https://via.placeholder.com/800x100.png?text=Thanks+for+visiting+my+profile!)
+![Footer Banner](https://raw.githubusercontent.com/junaidiqbalturk/junaidiqbalturk/main/artbreeder-image-2024-07-17T18_39_27.442Z.jpeg)
