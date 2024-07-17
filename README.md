@@ -1,6 +1,6 @@
 # Hi there, I'm Junaid Iqbal 👋
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+![Header Image]([https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile](https://github.com/junaidiqbalturk/junaidiqbalturk/blob/main/e5c86a6a-93ab-4635-8447-c43548b22637.jpeg)
 
 ## About Me
 
