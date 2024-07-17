@@ -1,6 +1,6 @@
 # Hi there, I'm Junaid Iqbal 👋
 
-![Header Banner](url_to_your_header_image)
+![Header Banner](https://raw.githubusercontent.com/junaidiqbalturk/junaidiqbalturk/main/e5c86a6a-93ab-4635-8447-c43548b22637.jpeg)
 
 ## About Me
 
